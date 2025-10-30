@@ -97,6 +97,9 @@ a {
   color: #434455;
   padding: 24px 0;
 }
+.link {
+  padding: 24px 0;
+}
 .nav-menu {
   display: flex;
   align-items: center;
@@ -186,10 +189,6 @@ a {
   display: flex;
   align-items: center;
   gap: 24px;
-}
-.section-features-title {
-  display: block;
-  margin-left: auto;
 }
 
 .team {
@@ -310,4 +309,4 @@ a {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-
+}
