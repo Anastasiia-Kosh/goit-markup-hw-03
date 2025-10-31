@@ -126,8 +126,6 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-bottom: 24px;
-  padding-top: 24px;
 }
 
 .page-title {
